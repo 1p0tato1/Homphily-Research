@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et artefacts locaux
+data/
+models/
+outputs/
+*.log
+
+# Configuration locale
+.env
+.env.*
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
